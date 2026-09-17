@@ -1,0 +1,9 @@
+# Saidas de compilacao Java
+out/
+*.class
+
+# Arquivos locais de IDE e sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
